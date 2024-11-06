@@ -1,4 +1,4 @@
-Hi there!
+Hi there! I am Anthon Van B. Calban, currently second year taking Bachelor of Science in Computer Science program in College. 
 
 Here are the list of my certificates:
 
