@@ -64,12 +64,6 @@
 
 ---
 
-## 🔥 Design Patterns I've Worked With
-
-- **Factory Pattern** · **Command Pattern** · **Adapter Pattern** · and more via OOP coursework
-
----
-
 <p align="center">
   <em>Open to collaborations and learning opportunities — feel free to reach out!</em>
 </p>
