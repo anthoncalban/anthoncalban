@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I'm+Anthon!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=87837f&text=Hi,%20I'm%20Anthon!%20👋&height=120&fontSize=40&fontAlignY=50&animation=false&fontFamily=Press%20Start%202P" alt="Hi, I'm Anthon!" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anthoncalban&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
 </p>
-
 
 ```json
 {
