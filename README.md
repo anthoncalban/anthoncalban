@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anthon 👋</h1>
 
 <p align="center">
-  <em>2nd year BS Computer Science student · Cloud & backend enthusiast · building cool stuff one commit at a time 🇵🇭</em>
+  <em>Computer Science Student · Aspiring Developer · New Era University</em>
 </p>
 
 <p align="center">
