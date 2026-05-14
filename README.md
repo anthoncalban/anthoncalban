@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I'm+Anthon!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I'm+Anthon!" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anthoncalban&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
