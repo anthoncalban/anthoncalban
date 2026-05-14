@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anthon 👋</h1>
+<h1 align="center">Hi, I'm Anthon!</h1>
 
 <p align="center">
   <em>Computer Science Student · Aspiring Developer · New Era University</em>
