@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Anthon Van Calban 👋</h1>
+<h1 align="center">Hi, I'm Anthon 👋</h1>
 
 <p align="center">
   <em>2nd year BS Computer Science student · Cloud & backend enthusiast · building cool stuff one commit at a time 🇵🇭</em>
