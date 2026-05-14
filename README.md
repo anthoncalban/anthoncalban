@@ -8,10 +8,8 @@
 ```json
 {
   "name": "Anthon Van B. Calban",
-  "year": "2nd year BS Computer Science",
-  "location": "Philippines 🇵🇭",
-  "currently_learning": ["OOP Design Patterns", "Cloud Infrastructure", "Data Management"],
-  "fun_fact": "Oracle certified before junior year 🔥"
+  "education": "3rd Year Computer Science @ New Era University (2023 - Present)",
+  "focus": ["Cloud Infrastructure", "Data Management"],
 }
 ```
 ## Certifications
