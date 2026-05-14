@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=87837f&text=ANTHON&height=150&fontSize=90&fontAlignY=55&animation=false&fontFamily=Rubik+Glitch" alt="ANTHON" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=87837f&text=Hi,%20I'm%20Anthon!&height=150&fontSize=70&fontAlignY=55&animation=false&fontFamily=Rubik+Glitch" alt="Hi, I'm Anthon!" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anthoncalban&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
