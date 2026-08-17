@@ -8,8 +8,8 @@
 ```json
 {
   "name": "Anthon Van B. Calban",
-  "education": "3rd Year Computer Science @ New Era University (2023 - Present)",
-  "focus": ["Cloud Infrastructure", "Data Management"],
+  "education": "4th Year Computer Science @ New Era University (2023 - Present)",
+  "focus": ["Software Development"],
 }
 ```
 ## Certifications
